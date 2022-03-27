@@ -1,0 +1,32 @@
+body, html {
+    float: right;
+     margin: 7;
+    padding: 5;
+}
+main {
+    background:gray;
+    
+    width: 645px;}
+    h1 {color: #044404;
+        width: 120px;
+        height:120px;
+    }
+    div {border-start-end-radius: 10px;}
+    
+    section {column-span: right;}
+    a {color:rgb(192, 64, 14)}
+
+    li {color: rgb(157, 243, 38)}
+    p {color: rgb(5, 2, 0)}
+
+    img { border: solid;
+    }
+    
+    div {border-style: white; }
+    div {border-width: 10px 1px; 
+    }
+    
+
+
+
+footer {color: rgb(157, 243, 38);}
